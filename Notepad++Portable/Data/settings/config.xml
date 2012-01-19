@@ -38,7 +38,7 @@
 					... (see source file)
 		-->
         <GUIConfig name="NewDocDefaultSettings" format="0" encoding="4" lang="0" codepage="-1" openAnsiAsUTF8="no" />
-        <GUIConfig name="langsExcluded" gr0="216" gr1="8" gr2="128" gr3="227" gr4="237" gr5="126" gr6="127" gr7="0" langMenuCompact="no" />
+        <GUIConfig name="langsExcluded" gr0="220" gr1="12" gr2="224" gr3="231" gr4="237" gr5="127" gr6="127" gr7="0" langMenuCompact="no" />
         <!--
 		printOption is print colour setting, the following values are possible :
 			0 : WYSIWYG
@@ -54,7 +54,7 @@
                                 2 : verbose backup
                       -->
         <GUIConfig name="Backup" action="2" useCustumDir="yes" dir="D:\Fedmich\Dropbox\temp\npp_temp" />
-        <GUIConfig name="TaskList">yes</GUIConfig>
+        <GUIConfig name="TaskList">no</GUIConfig>
         <GUIConfig name="SaveOpenFileInSameDir">no</GUIConfig>
         <!--
 			value 0 for the folloing parameters means invisible :
@@ -70,10 +70,10 @@
 			-->
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="MaitainIndent">yes</GUIConfig>
-        <GUIConfig name="MRU">yes</GUIConfig>
+        <GUIConfig name="MRU">no</GUIConfig>
         <GUIConfig name="URL">0</GUIConfig>
         <GUIConfig name="globalOverride" fg="no" bg="no" font="no" fontSize="no" bold="no" italic="no" underline="no" />
-        <GUIConfig name="auto-completion" autoCAction="1" triggerFromNbChar="2" funcParams="no" />
+        <GUIConfig name="auto-completion" autoCAction="1" triggerFromNbChar="2" funcParams="yes" />
         <GUIConfig name="sessionExt"></GUIConfig>
         <GUIConfig name="SmartHighLight">yes</GUIConfig>
         <GUIConfig name="TagsMatchHighLight" TagAttrHighLight="yes" HighLightNonHtmlZone="no">yes</GUIConfig>
