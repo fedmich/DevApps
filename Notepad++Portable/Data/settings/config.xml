@@ -38,7 +38,7 @@
 					... (see source file)
 		-->
         <GUIConfig name="NewDocDefaultSettings" format="0" encoding="4" lang="0" codepage="-1" openAnsiAsUTF8="no" />
-        <GUIConfig name="langsExcluded" gr0="220" gr1="12" gr2="224" gr3="231" gr4="237" gr5="127" gr6="127" gr7="0" langMenuCompact="no" />
+        <GUIConfig name="langsExcluded" gr0="220" gr1="12" gr2="224" gr3="231" gr4="237" gr5="127" gr6="255" gr7="0" langMenuCompact="no" />
         <!--
 		printOption is print colour setting, the following values are possible :
 			0 : WYSIWYG
@@ -82,7 +82,6 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="D:\Fedmich\Dropbox\Tools\DevApps\Notepad++Portable\App\Notepad++\stylers.xml" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="200">
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
